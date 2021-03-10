@@ -1,2 +1,2 @@
 # mayana
-an application for calculating salary
+an application to calculate your salary
